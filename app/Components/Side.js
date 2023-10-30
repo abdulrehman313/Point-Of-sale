@@ -48,12 +48,14 @@ const Side = ({ isOpen }) => {
       >
         <Link href="/Landing-dashboard">
           <Flex
-            _hover={{
-              bgColor:
-                location.pathname === "/Landing-dashboard"
-                  ? "#181F4D"
-                  : "#181F4D",
-            }}
+            _hover={
+              {
+                // bgColor:
+                //   location.pathname === "/Landing-dashboard"
+                //     ? "#181F4D"
+                //     : "#181F4D",
+              }
+            }
             // _hover={{ bgColor: "#181F4D" }}
             // bgColor={{}}
             // className={({ isActive }) => (isActive ? "active" : "link-color")}
