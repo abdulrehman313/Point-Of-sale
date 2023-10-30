@@ -1,0 +1,17 @@
+<svg width="29" height="29" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="29" height="29" fill="#F5F5F5"/>
+<g id="Desktop - 1" clip-path="url(#clip0_0_1)">
+<rect width="1730" height="1117" transform="translate(-46 -572)" fill="white"/>
+<rect id="Rectangle 1" x="-46" y="-572" width="334" height="1117" fill="#32409A"/>
+<g id="Group 34840">
+<g id="mdi:invoice">
+<path id="Vector" d="M3.625 26.5837L5.4375 24.7712L7.25 26.5837L9.0625 24.7712L10.875 26.5837L12.6875 24.7712L14.5 26.5837L16.3125 24.7712L18.125 26.5837L19.9375 24.7712L21.75 26.5837L23.5625 24.7712L25.375 26.5837V2.41699L23.5625 4.22949L21.75 2.41699L19.9375 4.22949L18.125 2.41699L16.3125 4.22949L14.5 2.41699L12.6875 4.22949L10.875 2.41699L9.0625 4.22949L7.25 2.41699L5.4375 4.22949L3.625 2.41699M21.75 10.8753H7.25V8.45866H21.75M21.75 15.7087H7.25V13.292H21.75M21.75 20.542H7.25V18.1253H21.75V20.542Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1730" height="1117" fill="white" transform="translate(-46 -572)"/>
+</clipPath>
+</defs>
+</svg>
