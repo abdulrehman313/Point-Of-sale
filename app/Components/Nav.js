@@ -1,3 +1,4 @@
+"use client";
 import { HamburgerIcon, SearchIcon } from "@chakra-ui/icons";
 import {
   Button,
